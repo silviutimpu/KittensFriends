@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KittensFriends/static/css/main.c3907a9a.chunk.css",
+    "main.js": "/KittensFriends/static/js/main.3ad8485a.chunk.js",
+    "main.js.map": "/KittensFriends/static/js/main.3ad8485a.chunk.js.map",
+    "runtime-main.js": "/KittensFriends/static/js/runtime-main.835ac005.js",
+    "runtime-main.js.map": "/KittensFriends/static/js/runtime-main.835ac005.js.map",
+    "static/js/2.6f0c520f.chunk.js": "/KittensFriends/static/js/2.6f0c520f.chunk.js",
+    "static/js/2.6f0c520f.chunk.js.map": "/KittensFriends/static/js/2.6f0c520f.chunk.js.map",
+    "static/js/3.c0614021.chunk.js": "/KittensFriends/static/js/3.c0614021.chunk.js",
+    "static/js/3.c0614021.chunk.js.map": "/KittensFriends/static/js/3.c0614021.chunk.js.map",
+    "index.html": "/KittensFriends/index.html",
+    "static/css/main.c3907a9a.chunk.css.map": "/KittensFriends/static/css/main.c3907a9a.chunk.css.map",
+    "static/js/2.6f0c520f.chunk.js.LICENSE.txt": "/KittensFriends/static/js/2.6f0c520f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835ac005.js",
+    "static/js/2.6f0c520f.chunk.js",
+    "static/css/main.c3907a9a.chunk.css",
+    "static/js/main.3ad8485a.chunk.js"
+  ]
+}
